@@ -4,6 +4,10 @@
 
 O **Excel Finder** é uma aplicação desktop desenvolvida em Python que permite buscar rapidamente por um termo específico em todos os arquivos Excel de uma pasta. Com uma interface moderna e intuitiva baseada em `customtkinter`, o programa facilita a localização de informações em múltiplas planilhas, otimizando o tempo do usuário.
 
+## Link para download
+
+[Excel_finder.exe](https://github.com/Ramalho7/excel_finder/releases/download/v1.0.0-beta/excel_finder.exe)
+
 ## Funcionalidades
 
 - Seleção fácil de uma pasta contendo arquivos Excel (`.xlsx` ou `.xls`)
